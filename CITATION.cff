@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the ShiftBack paper (reference to be added on publication)."
+title: "ShiftBack: Training-Free Correction of Workpiece Layout Changes for Imitation-Learned Robot Manipulation Policies"
+authors:
+  - name: "The ShiftBack authors"
+year: 2026
+license: MIT
+repository-code: "https://github.com/ThoughtToTorque/ShiftBack"

@@ -1,0 +1,11 @@
+# core (demo 0, tests, real-robot geometry)
+numpy>=1.20
+pillow>=8
+matplotlib>=3.5
+pytest
+scipy>=1.7          # real/calibrate_from_demos.py (robust pinhole fit)
+imageio>=2.20       # videos
+imageio-ffmpeg
+# localiser (OWLv2)
+torch>=2.0
+transformers>=4.40

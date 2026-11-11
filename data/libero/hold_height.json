@@ -1,0 +1,116 @@
+{
+ "put the white mug on the left plate and put the yellow and white mug on the right plate": {
+  "0": 0.11696489894028869,
+  "1": 0.10138478942215445
+ },
+ "put the white mug on the plate and put the chocolate pudding to the right of the plate": {
+  "0": 0.11010987724576683,
+  "1": 0.03182054440180463
+ },
+ "put the yellow and white mug in the microwave and close it": {
+  "0": 0.09582976877689364
+ },
+ "turn on the stove and put the moka pot on it": {
+  "1": 0.13292447096592677
+ },
+ "put both the alphabet soup and the cream cheese box in the basket": {
+  "0": 0.07245464847638064,
+  "1": 0.036276220847398837
+ },
+ "put both the alphabet soup and the tomato sauce in the basket": {
+  "0": 0.07652136244944166,
+  "1": 0.07099013017756602
+ },
+ "put both moka pots on the stove": {
+  "0": 0.13496019654803812,
+  "1": 0.1269538413561308
+ },
+ "put both the cream cheese box and the butter in the basket": {
+  "0": 0.033252488929171924,
+  "1": 0.034899539226709436
+ },
+ "put the black bowl in the bottom drawer of the cabinet and close it": {
+  "0": 0.05696558833122256
+ },
+ "pick up the book and place it in the back compartment of the caddy": {
+  "0": 0.06810000419616702
+ },
+ "put the bowl on the plate": {
+  "0": 0.04909096265325744
+ },
+ "put the wine bottle on the rack": {
+  "0": 0.11957979508808686
+ },
+ "put the cream cheese in the bowl": {
+  "0": 0.03651012526618112
+ },
+ "put the wine bottle on top of the cabinet": {
+  "0": 0.14171694596608486
+ },
+ "put the bowl on the stove": {
+  "0": 0.051261040121316936
+ },
+ "put the bowl on top of the cabinet": {
+  "0": 0.04894248061709939
+ },
+ "pick up the orange juice and place it in the basket": {
+  "0": 0.12333203031068168
+ },
+ "pick up the ketchup and place it in the basket": {
+  "0": 0.13560162194333106
+ },
+ "pick up the cream cheese and place it in the basket": {
+  "0": 0.03289484020322562
+ },
+ "pick up the bbq sauce and place it in the basket": {
+  "0": 0.10239118327519721
+ },
+ "pick up the alphabet soup and place it in the basket": {
+  "0": 0.07431208344176413
+ },
+ "pick up the milk and place it in the basket": {
+  "0": 0.12281783570470507
+ },
+ "pick up the salad dressing and place it in the basket": {
+  "0": 0.14040623854136186
+ },
+ "pick up the butter and place it in the basket": {
+  "0": 0.03445883951827206
+ },
+ "pick up the tomato sauce and place it in the basket": {
+  "0": 0.08001103333338642
+ },
+ "pick up the chocolate pudding and place it in the basket": {
+  "0": 0.03376800531331374
+ },
+ "pick up the black bowl next to the cookie box and place it on the plate": {
+  "0": 0.04707766950130465
+ },
+ "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate": {
+  "0": 0.06517913672982195
+ },
+ "pick up the black bowl on the ramekin and place it on the plate": {
+  "0": 0.05553350892331868
+ },
+ "pick up the black bowl on the stove and place it on the plate": {
+  "0": 0.053524433374404934
+ },
+ "pick up the black bowl between the plate and the ramekin and place it on the plate": {
+  "0": 0.0527931220280497
+ },
+ "pick up the black bowl on the cookie box and place it on the plate": {
+  "0": 0.05330617961429418
+ },
+ "pick up the black bowl next to the plate and place it on the plate": {
+  "0": 0.045537200972091345
+ },
+ "pick up the black bowl next to the ramekin and place it on the plate": {
+  "0": 0.04725933226672088
+ },
+ "pick up the black bowl from table center and place it on the plate": {
+  "0": 0.05374166943306151
+ },
+ "pick up the black bowl on the wooden cabinet and place it on the plate": {
+  "0": 0.06432273438998634
+ }
+}
